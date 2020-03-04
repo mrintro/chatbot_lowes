@@ -1,0 +1,21 @@
+all the changes that you think the team member should know should be in this file.! This is must
+and update requierments.txt files with the flow of the project.
+Google a way to check how to populate requierments.txt in your specified framework, also look over the formatting of requirements.txt files as it is must.
+
+ex:
+in python I have to install pigar. and then just type pigar in terminal which populates my requirements.txt files itself.
+
+***
+    On how to commit look over new branching that I have made since got is nothing if not branches.
+    "git clone "https://github.com/mrintro/chatbot_lowes.git""  it will clone this repo in the directory you are currently present in.
+    It will create a folder
+    "git status" will show in which branch are you currently workin in.
+    "git add -A" will add all the files
+    "git commit -a -m "message"" will commit it.   imp.: this is commiting it in the local system git. This commit will not be reflected in github till you push it. yes.! git and github are two different things. 
+    "git push" will refect the changes in the corresponding branch that you are present in.
+
+    If you are confused about git just let me know, I will brief you about that jitna mujhe aata hai utna.
+
+    Everyone must have one commit everyday with proper message.
+
+***
