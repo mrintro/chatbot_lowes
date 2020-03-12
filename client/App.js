@@ -1,14 +1,17 @@
 import React, {Component} from "react";
-import Chat from "./Chat";
+import Chat from './Chat';
 
-
+//const React = require('react');
+// const Chat = require('./Chat');
+import {View} from "react-native"
+// const {View} = require('react-native');
 
 class App extends React.Component {
   render() {
     return (
-      <div>
+      <View>
           <Chat/>
-      </div>
+      </View>
     );
   }
 }

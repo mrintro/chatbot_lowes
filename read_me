@@ -6,7 +6,7 @@ ex:
 in python I have to install pigar. and then just type pigar in terminal which populates my requirements.txt files itself.
 
 ***
-    On how to commit look over new branching that I have made since got is nothing if not branches.
+    On how to commit look over new branching that I have made since git is nothing if not branches.
     "git clone "https://github.com/mrintro/chatbot_lowes.git""  it will clone this repo in the directory you are currently present in.
     It will create a folder
     "git status" will show in which branch are you currently workin in.
@@ -23,7 +23,7 @@ in python I have to install pigar. and then just type pigar in terminal which po
 structure of our branching:
 
 master(never commit in the master) --- test (This branch is for final testing) --- dev(This branch is for development) --- login-signup
-                                                                                                                       --- chat_bot
+                                                                                                                       --- chat_portion
                                                                                                                        --- botting-chat
                                                                                                                         (names specify everything)
                                                                                                                         
